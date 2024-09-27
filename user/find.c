@@ -1,7 +1,7 @@
 #include "kernel/types.h"
 #include "kernel/stat.h"
 #include "user/user.h"
-#include "kernel/fs.h" // 包含文件系统相关的数据结构和常量定义
+#include "kernel/fs.h" 
 
 // 函数声明
 void find(char *path, char *filename);
